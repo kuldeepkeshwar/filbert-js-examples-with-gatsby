@@ -1,4 +1,4 @@
-A starter kit using [React](https://reactjs.org/)(CRA) and [filbert-js](http://filbert-js.vercel.app/)
+A starter kit using [Gatsby](https://www.gatsbyjs.org/) and [filbert-js](http://filbert-js.vercel.app/)
 
 
 ## References
