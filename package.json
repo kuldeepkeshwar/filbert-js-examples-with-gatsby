@@ -5,8 +5,9 @@
   "author": "Kuldeep Keshwar <kuldeepkeshwar@gmail.com>",
   "dependencies": {
     "@filbert-js/core": "latest",
-    "gatsby-plugin-filbert": "latest",
+    "@filbert-js/macro": "0.0.2",
     "gatsby": "^2.23.12",
+    "gatsby-plugin-filbert": "latest",
     "gatsby-plugin-google-analytics": "^2.3.6",
     "gatsby-plugin-offline": "^2.2.10",
     "gatsby-plugin-react-helmet": "^3.3.6",
